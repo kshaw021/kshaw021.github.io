@@ -5,9 +5,9 @@ body {
 }
 h1 {
 	color: #3B2925;
-	font-size: 40px;
+	font-size: 60px;
 	font-style: bold;
-	font-family: arial, sans-serif;
+	font-family: chalkduster, sans-serif;
 }
 h2 {
 	color: #47312D;
@@ -17,7 +17,12 @@ p {
 	color: #47312D;
 	font-size: 12px;
 }
+h3 {
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-size: 14px;
+}
 hr {
-	width: 1200px;
+	width: 1000px;
 	color: #FFF;
 }
