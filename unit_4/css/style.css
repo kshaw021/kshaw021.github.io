@@ -14,8 +14,8 @@ h1 {
 h2 {
 	color: #47312D;
 	font-size: 20px;
-	text-transform: uppercase;
 	font-style: italic;
+	letter-spacing: 1.5em;
 }
 p {
 	color: #47312D;
