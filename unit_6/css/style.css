@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+
+body {
+	background-color: #D19184;
+	text-align: center;
+	font-family: arial, sans-serif;
+}
+h1 {
+	color: #3B2925;
+	font-size: 60px;
+	font-style: bold;
+	font-family: Barrio, chalkduster, sans-serif;
+}
+h2 {
+	color: #47312D;
+	font-size: 20px;
+}
+p {
+	color: #47312D;
+	font-size: 14px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+h3 {
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-size: 14px;
+}
+hr {
+	width: 1000px;
+	color: #FFF;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px solid black;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
