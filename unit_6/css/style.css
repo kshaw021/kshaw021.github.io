@@ -78,7 +78,7 @@ section {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 62%;
 }
 
 #right {
@@ -86,7 +86,7 @@ section {
 	border: 1px solid black;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 30%;
 }
 
 .clearfix:after {
