@@ -42,8 +42,9 @@ header {
 }
 
 nav {
-	background-color: #D19184;
+	background-color: #3B2925;
 	float: left;
+	color: #3B2925;
 }
 
 a {
