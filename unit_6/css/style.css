@@ -15,17 +15,20 @@ h2 {
 	color: #47312D;
 	font-size: 20px;
 }
+
 p {
 	color: #47312D;
 	font-size: 14px;
 	line-height: 1.5em;
 	margin: 2em;
 }
+
 h3 {
 	text-transform: uppercase;
 	text-decoration: underline;
 	font-size: 14px;
 }
+
 hr {
 	width: 1000px;
 	color: #FFF;
@@ -43,38 +46,20 @@ nav {
 	padding: 20px;
 }
 
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article {
-	background-color: #E89C6C;
-	border: 1px solid black;
-	padding: 20px;
-}
-
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #3B2925;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -82,7 +67,7 @@ section {
 }
 
 #right {
-	background-color: #E55B88;
+	background-color: #fff;
 	border: 1px solid black;
 	padding: 20px;
 	float: right;
