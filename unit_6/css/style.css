@@ -55,6 +55,7 @@ a {
 
 a:hover {
 	background-color: #FFF;
+	width: auto;
 }
 
 aside {
@@ -82,7 +83,7 @@ footer {
 }
 
 #two_column {
-	background-color: #3B2925;
+	background-color: #D19184;
 	border: 1px black solid;
 	padding: 20px;
 }
