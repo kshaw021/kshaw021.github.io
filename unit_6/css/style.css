@@ -24,6 +24,7 @@ p {
 }
 
 h3 {
+	color: #FEF4F2;
 	text-transform: uppercase;
 	text-decoration: underline;
 	font-size: 14px;
@@ -42,6 +43,7 @@ header {
 
 nav {
 	background-color: #D19184;
+	float: none;
 }
 
 a {
@@ -61,13 +63,13 @@ a:hover {
 aside {
 	background-color: #3B2925;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 40px;
 }
 
 article {
 	background-color: #3B2925;
 	border: 1px solid black;
-	padding: 20px;
+	padding: 40px;
 }
 
 section {
