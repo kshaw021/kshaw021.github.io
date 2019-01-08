@@ -51,7 +51,6 @@ nav {
 a {
 	background-color: #3B2925;
 	color: #000;
-	text-decoration: none;
 	padding: 10px;
 	width: auto;
 }
@@ -115,4 +114,15 @@ footer {
     height: 0;
 }
 
-@media only screen and (max-width: 1148px)
+@media only screen and (max-width: 1148px) {
+	#two_column {
+		width: 94%;
+		padding: 1%;
+		border: 2%;
+	}
+
+	nav {
+		float: none;
+		width: auto;
+	}
+}
