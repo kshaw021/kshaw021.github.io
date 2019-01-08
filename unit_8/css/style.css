@@ -44,6 +44,7 @@ header {
 nav {
 	background-color: #3B2925;
 	float: left;
+	display: inline;
 	color: #3B2925;
 }
 
